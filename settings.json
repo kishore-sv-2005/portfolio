@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "KISHORE S",
+    "email": "kishorbunni7@gmail.com",
+    "role": "Full Stack Developer",
+    "phone": "",
+    "summary": "Self-driven Full Stack Developer with experience in building scalable, responsive web applications and integrating cloud-based solutions. Focused on delivering secure, high-performance, and user-centric products through clean, maintainable code.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhqUvj5vwwOlPR7Mlze_a9HSVv5Om677tvlIY4M7VsA&s"
+  },
+  "workExperiences": [],
+  "skills": {
+    "descriptions": [
+      "HTML",
+      "CSS",
+      "TailwindCSS",
+      "JavaScript/TypeScript",
+      "REACT",
+      "NEXT.JS",
+      "Node",
+      "Express.js",
+      "MongoDB",
+      "PostgresSQL",
+      "Java",
+      "SQL",
+      "Docker",
+      "Vercel",
+      "AWS(IAM, EC2, S3, Amplify)",
+      "linux"
+    ]
+  },
+  "education": [],
+  "projects": [
+    {
+      "name": "Chat Application",
+      "description": "A simple yet powerful chat website where users can create accounts, chat with others, and manage their profiles. The Frontend was developed using React.js with the Vite bundler for optimized performance, while the Backend was implemented using Express.js with MongoDB for storing user information and chat messages. Cloudinary SDK was integrated for image management, enabling efficient and secure file uploads. The project also included user authentication and session management. This project enhanced my understanding of client-server architecture, React hooks, REST APIs, and image handling workflows.",
+      "source_link": "https://github.com/kishore-sv/ChatApplication",
+      "live_link": "https://chatapplication-jdq3.onrender.com"
+    },
+    {
+      "name": "AWS S3 UI",
+      "description": "An interactive web-based interface built for seamless file and folder upload, deletion, and management in AWS S3 buckets. The Frontend was implemented using Next.js for improved SEO, routing efficiency, and development experience. AWS Integration was achieved using the @aws-sdk/client-s3 library, leveraging IAM access keys for secure bucket interactions. The application used client-side local storage for managing session data, improving both performance and security. Through this project, I gained deeper knowledge of Next.js, Cloud Services, AWS S3 architecture, IAM roles, and bucket policy configurations.",
+      "source_link": "https://github.com/kishore-sv/s3-ui",
+      "live_link": "https://s3-ui-ten.vercel.app"
+    }
+  ]
+}
