@@ -1,0 +1,78 @@
+{
+  "profile": {
+    "name": "Kishore",
+    "email": "kishorevphs@gmail.com",
+    "role": "Full Stack Developer",
+    "phone": "+919611108710",
+    "summary": "Full Stack Developer with hands-on experience building production-ready applications using Next.js, React, Node.js, PostgreSQL, AWS, and TypeScript. Strong focus on performance, clean UI, REST APIs, and scalable architecture.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhqUvj5vwwOlPR7Mlze_a9HSVv5Om677tvlIY4M7VsA&s"
+  },
+  "workExperiences": [],
+  "skills": {
+    "descriptions": [
+      "Java",
+      "Typescript",
+      "JavaScript",
+      "Python",
+      "React.js",
+      "Express.js",
+      "Tailwind CSS",
+      "Next.js",
+      "React Native",
+      "Fast API",
+      "MongoDB",
+      "PostgreSQL (Drizzle ORM)",
+      "MySQL",
+      "Git",
+      "Postman",
+      "Vercel",
+      "Docker",
+      "Redis",
+      "AWS (IAM, EC2, S3, Amplify)"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Presidency University",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "year": "2023 - 2027"
+    },
+    {
+      "institution": "Nagarjuna Pre University College",
+      "degree": "Pre-University (PCMC)",
+      "year": "2021 - 2023"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Builder",
+      "description": "Built a resume-to-portfolio generator using Next.js and TypeScript, enabling users to generate SEO-optimized, responsive portfolios using reusable templates.",
+      "source_link": null,
+      "live_link": null
+    },
+    {
+      "name": "S3 UI",
+      "description": "Simple S3 File Manager - A lightweight web interface for browsing, uploading, and deleting files/folders in any AWS S3 bucket using dynamic credentials stored in localStorage.",
+      "source_link": null,
+      "live_link": null
+    },
+    {
+      "name": "Heart Disease Predictor",
+      "description": "ML-powered REST API using FastAPI to predict heart disease based on patient data. It uses a trained scikit-learn model and provides real-time predictions from features like age, sex, cholesterol, and blood pressure.",
+      "source_link": null,
+      "live_link": null
+    },
+    {
+      "name": "Movie Booking Platform",
+      "description": "Built a full-stack movie booking platform from scratch with seat selection, show listings, and booking management. Designed a relational PostgreSQL schema and implemented type-safe queries using Drizzle ORM.",
+      "source_link": null,
+      "live_link": null
+    },
+    {
+      "name": "Chat Application (Mobile App)",
+      "description": "Built a mobile chat application with user authentication and one-to-one messaging. Developed a RESTful backend using Express.js and MongoDB for user data and message persistence. Integrated API communication between the React Native client and backend services.",
+      "source_link": null,
+      "live_link": null
+    }
+  ]
+}
